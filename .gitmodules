@@ -1,0 +1,4 @@
+[submodule "hugo"]
+	path = hugo
+	url = https://github.com/winsx/winsx.github.io
+	branch = hugo

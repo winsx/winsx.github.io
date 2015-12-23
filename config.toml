@@ -1,0 +1,11 @@
+baseurl = "http://winsx.github.io/"
+title = "Winsx"
+author = "Gerry Lynx"
+copyright = "Copyright (c) 20015 - 2016, Gerry Lynx; all rights reserved."
+canonifyurls = true
+paginate = 3
+theme = "hugo-uno"
+
+[params]
+    name = "Gerry Lynx"
+    description = "This is a test static html website for Winsx."

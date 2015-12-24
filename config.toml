@@ -9,3 +9,4 @@ theme = "hugo-uno"
 [params]
     name = "Gerry Lynx"
     description = "This is a test static html website for Winsx."
+    github = "winsx"
